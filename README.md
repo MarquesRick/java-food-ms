@@ -36,7 +36,7 @@ Made with ❤️ by Henrique Marques 👋🏽 Say hello!
 
 ### ℹ️  Info
 
-<b>java-food-payments:</b> API/MS for payments data;
-<b>java-food-orders:</b> API/MS for orders data;
-<b>java-food-gateway:</b> API/MS gateway (entry point to APIS);
-<b>java-food-server:</b> API/MS server Eureka for load balance and Service Discovery;
+<b>java-food-payments:</b> API/MS for payments data;<br/>
+<b>java-food-orders:</b> API/MS for orders data;<br/>
+<b>java-food-gateway:</b> API/MS gateway (entry point to APIS);<br/>
+<b>java-food-server:</b> API/MS server Eureka for load balance and Service Discovery;<br/>
