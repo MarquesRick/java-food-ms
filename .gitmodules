@@ -1,3 +1,12 @@
 [submodule "java-food"]
 	path = java-food
 	url = https://github.com/MarquesRick/java-food
+[submodule "java-food-orders"]
+	path = java-food-orders
+	url = https://github.com/MarquesRick/java-food-orders
+[submodule "java-food-gateway"]
+	path = java-food-gateway
+	url = https://github.com/MarquesRick/java-food-gateway
+[submodule "java-food-server"]
+	path = java-food-server
+	url = https://github.com/MarquesRick/java-food-server
