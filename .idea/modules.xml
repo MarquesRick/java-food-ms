@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-food-gateway/gateway.iml" filepath="$PROJECT_DIR$/java-food-gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-food-ms.iml" filepath="$PROJECT_DIR$/.idea/java-food-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-food/pagamentos.iml" filepath="$PROJECT_DIR$/java-food/pagamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-food-orders/pedidos.iml" filepath="$PROJECT_DIR$/java-food-orders/pedidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-food-server/server.iml" filepath="$PROJECT_DIR$/java-food-server/server.iml" />
+    </modules>
+  </component>
+</project>
