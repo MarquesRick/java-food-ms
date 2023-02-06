@@ -10,3 +10,6 @@
 [submodule "java-food-server"]
 	path = java-food-server
 	url = https://github.com/MarquesRick/java-food-server
+[submodule "java-food-infra"]
+	path = java-food-infra
+	url = https://github.com/MarquesRick/java-food-infra
