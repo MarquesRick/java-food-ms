@@ -13,3 +13,5 @@
 [submodule "java-food-infra"]
 	path = java-food-infra
 	url = https://github.com/MarquesRick/java-food-infra
+[submodule "public"]
+	branch = master
